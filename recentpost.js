@@ -1,4 +1,4 @@
-function relatedPostsWidget(userOp){
+function showrecentPostsWidget(userOp){
 	(function($){ 
 		var op = {
 			'blogURL':''
